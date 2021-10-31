@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Danilo</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Danilo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Oct 2021 22:39:15 -0500</lastBuildDate><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Thu, 28 Oct 2021 22:39:15 -0500</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>Currently # Doing the machine learning program at Holberton School: ends Jan 2022.</description>
+    </item>
+    
+    <item>
+      <title>Stack</title>
+      <link>/pages/stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/stack/</guid>
+      <description>Tools used in my learning journey    Technology Details     Python Tensorflow, Keras, Numpy, Matplotlib, Skit-Learn, Pandas, Flask, C   Database MySQL   Learning Holberton School, Udacity, Coursera, YouTube, Stackoverflow, Feynman tecnique   IDE Pycharm, Anaconda, VSCode, Vagrant, Linux, Bash, Git, Vim    Community support is priceless    Community Channel     Data Engineering Latam Slack, Telegram, Linkedin   Learn AI together Discord    Feynman tecnique   </description>
+    </item>
+    
+  </channel>
+</rss>
